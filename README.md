@@ -10,7 +10,7 @@
 ex) youbin / week1 / 1920.java
 
 ## 문제
-|                                                             Title                                                              | week |  level  | 
+|                                                             Title                                                              | Week |  Level  | 
 |:------------------------------------------------------------------------------------------------------------------------------:|:-------:|:----------:|
 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  |   1주차    | Lv.2 (필수) | 
 | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)  |   1주차    | Lv.2 (필수) | 
