@@ -10,8 +10,8 @@
 ex) youbin / week1 / 1920.java
 
 ## 문제
-|                                                             Title                                                              | Week |  Level  | 
-|:------------------------------------------------------------------------------------------------------------------------------:|:-------:|:----------:|
-| [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  |   1주차    | Lv.2 (필수) | 
-| [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)  |   1주차    | Lv.2 (필수) | 
-| [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) |   1주차   | Lv.3 (선택) | 
+|   Week   |                                                             Title                                                              |  Level  | 
+|:-------:|:------------------------------------------------------------------------------------------------------------------------------:|:----------:|
+|  1주차  | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  | Lv.2 (필수) |
+|  1주차  | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)  | Lv.2 (필수) |
+|  1주차  | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | Lv.3 (선택) |
