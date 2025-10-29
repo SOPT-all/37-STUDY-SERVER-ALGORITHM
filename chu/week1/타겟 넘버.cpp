@@ -9,7 +9,7 @@ int solution(vector<int> numbers, int target) {
     
     function<void(int, int)> dfs = [&](int index, int sum) {
         if (index == numbers.size()) { // 모든 숫자를 다 사용했을 때
-            if (sum == target).   // 현재 합계와 목표값이 같으면
+            if (sum == target)   // 현재 합계와 목표값이 같으면
                 answer++;       // 경우의 수 증가
             return;
         }
