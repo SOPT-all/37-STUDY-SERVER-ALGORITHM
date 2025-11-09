@@ -18,3 +18,6 @@ ex) youbin / week1 / 1920.java
 |  2주차  | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | Lv.2 (필수) |
 |  2주차  | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | Lv.2 (필수) |
 |  2주차  | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | Lv.3 (선택) |
+|  3주차  | [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | Lv.2 (필수) |
+|  3주차  | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | Lv.2 (필수) |
+|  3주차  | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | Lv.3 (선택) |
