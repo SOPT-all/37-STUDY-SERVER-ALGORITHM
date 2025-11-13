@@ -9,11 +9,14 @@ def solution(name):
 
     move = n - 1
     for i in range(n):
+        # i 다음 위치부터 연속된 A구간을 탐색
         j = i + 1
         
+        # 루프 종료 후 j는 연속된 A구간의 다음 인덱스
         while j < n and name[j] == 'A':
             j += 1
         # 오른쪽으로 i까지 갔다가 왼쪽으로 돌아서 j 이후로 가는 케이스들 비교
+        # min(j기준 왼쪽으로 도는 경우, 오른쪽으로 쭉 가는 경우)
         move = min(move, 2 * i + (n-j), i + 2 * (n-j))
 
     return updown + move
