@@ -21,3 +21,6 @@ ex) youbin / week1 / 1920.java
 |  3주차  | [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | Lv.2 (필수) |
 |  3주차  | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | Lv.2 (필수) |
 |  3주차  | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | Lv.3 (선택) |
+|  4주차  | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | Lv.2 (필수) |
+|  4주차  | [1차 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | Lv.2 (필수) |
+|  4주차  | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Lv.3 (선택) |
