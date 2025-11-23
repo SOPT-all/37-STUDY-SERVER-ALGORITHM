@@ -24,3 +24,6 @@ ex) youbin / week1 / 1920.java
 |  4주차  | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | Lv.2 (필수) |
 |  4주차  | [1차 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | Lv.2 (필수) |
 |  4주차  | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Lv.3 (선택) |
+|  5주차  | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | Lv.2 (필수) |
+|  5주차  | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | Lv.2 (필수) |
+|  5주차  | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | Lv.3 (선택) |
