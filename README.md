@@ -27,3 +27,6 @@ ex) youbin / week1 / 1920.java
 |  5주차  | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) | Lv.2 (필수) |
 |  5주차  | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | Lv.2 (필수) |
 |  5주차  | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | Lv.3 (선택) |
+|  6주차  | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Lv.2 (필수) |
+|  6주차  | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | Lv.3 (필수) |
+|  6주차  | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | Lv.3 (선택) |
