@@ -1,10 +1,10 @@
-import java.util.ArrayList;
-import java.util.List;
+import java.util.HashSet;
+import java.util.Set;
 
 class Solution {
     public int[] solution(int n, String[] words) {
 
-        List<String> usedWord = new ArrayList<>();
+        Set<String> usedWord = new HashSet<>();
         char lastAlpha = 0;  // 이전 단어의 마지막 글자
         int failedSeq = 0;   // 몇 번째 단어에서 실패했는지
 
@@ -18,11 +18,9 @@ class Solution {
             }
 
             // 이전 단어의 마지막 글자로 시작하는지 검사
-            if (i > 0) { // 첫 번째 글자인 경우 제외
-                if (lastAlpha != word.charAt(0)) {
+            if (i > 0 && lastAlpha != word.charAt(0)) { // 첫 번째 글자인 경우 제외 {
                     failedSeq = i + 1;
                     break;
-                }
             }
             
             usedWord.add(word);
