@@ -30,3 +30,6 @@ ex) youbin / week1 / 1920.java
 |  6주차  | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | Lv.2 (필수) |
 |  6주차  | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | Lv.3 (필수) |
 |  6주차  | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | Lv.3 (선택) |
+|  7주차  | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | Lv.2 (필수) |
+|  7주차  | [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | Lv.2 (필수) |
+|  7주차  | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | Lv.3 (선택) |
