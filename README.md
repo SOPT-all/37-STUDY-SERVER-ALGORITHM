@@ -33,3 +33,6 @@ ex) youbin / week1 / 1920.java
 |  7주차  | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) | Lv.2 (필수) |
 |  7주차  | [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | Lv.2 (필수) |
 |  7주차  | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | Lv.3 (선택) |
+|  8주차  | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | Lv.2 (필수) |
+|  8주차  | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | Lv.2 (필수) |
+|  8주차  | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | Lv.3 (선택) |
